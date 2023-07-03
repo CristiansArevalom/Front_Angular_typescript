@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
 Is developed for the bellow api rest available on:
-[ApiRestMedicalCareTypescript](https://github.com/CristiansArevalom/ApiRestMedicalCareTypescript.git)
+https://github.com/CristiansArevalom/Api_Rest_Medical_Care_Typescript
 
 > Note: This is a basic front development and only centered for achieve the minimum interactión to get and delivery data from de backend api rest
 ## Development server
